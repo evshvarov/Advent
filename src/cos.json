@@ -1,0 +1,4 @@
+{
+    "compileList": "Advent*.CLS",
+    "projectName": "aoc"
+}
